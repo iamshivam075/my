@@ -66,3 +66,34 @@
     background: transparent;
     border: none;
 }
+.page img{
+    width: 100%;
+}
+.banner{
+    width: 100%;
+}
+.banner img{
+    width: 100%;
+    margin-top: 50px;
+   
+}
+.stars{
+    width: 100%;
+    padding: 80px 0px;
+}
+.stars h1{
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.rows{
+    width: 20%;
+    display: flex;
+
+}
+.rows img{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    width:100%;
+}
